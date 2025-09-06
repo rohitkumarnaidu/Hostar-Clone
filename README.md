@@ -191,4 +191,4 @@ If you have any questions or need help with setup, please open an issue on GitHu
 
 ---
 
-**Made with ❤️ by [Your Name](https://github.com/yourusername)**
+**Made with ❤️ by [Rohit](https://github.com/rohitkumarnaidu)**
